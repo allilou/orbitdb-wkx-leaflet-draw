@@ -1,14 +1,22 @@
 {
-  "name": "my-app",
+  "name": "orbitdb-wkx-leaflet-draw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "ipfs": "^0.40.0",
+    "ipfs-http-client": "^40.0.1",
+    "leaflet": "^1.5.1",
+    "leaflet-draw": "^1.0.4",
+    "orbit-db": "^0.22.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-leaflet": "^2.6.0",
+    "react-leaflet-draw": "^0.19.0",
+    "react-scripts": "3.3.0",
+    "wkx": "^0.4.8"
   },
   "scripts": {
     "start": "react-scripts start",
